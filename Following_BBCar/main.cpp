@@ -16,7 +16,7 @@ RPCFunction rpclinefollow(&linefollow, "linefollow");
 double state = 0;
 double x, y, m;
 
-int point[5];
+int point[4];
 
 void compare(int x1, int x2) {
    
