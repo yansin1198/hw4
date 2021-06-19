@@ -24,3 +24,11 @@ https://drive.google.com/file/d/1mam6KdGrpApy-d884KJI1CP7itcaClyv/view?usp=shari
 	
 	影片中可注意筆電畫面的右上方，會看到目標線段出現在openMV的視角範圍，並且BBCar會沿著線段前進，當線段不再出現於openMV視角內，BBCar將會停止前進。
 https://drive.google.com/file/d/1me8nJvVraLZ-uMa4XLnaBG2tl2rFcxIl/view?usp=sharing
+
+# PART3 BBCar_Position_Calibration
+
+	因為openMV壞掉，因此這題改成利用PING辨識特殊幾何形狀物件。
+	
+## Demo Video
+
+https://drive.google.com/file/d/1ocD8ynPtgJZS6EpeO7osdYNAmKvTmgvt/view?usp=sharing
